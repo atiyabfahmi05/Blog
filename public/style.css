@@ -1,0 +1,21 @@
+body{
+    background-color: gainsboro;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: maroon;
+}
+
+.sqr{
+    background-color: azure;
+}
+
+.usr{
+    font-style: italic;
+}
+
+.con{
+    font: bold;
+}
